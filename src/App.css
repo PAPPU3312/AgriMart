@@ -9,6 +9,12 @@ body {
   margin: 0;
 }
 
+.container {
+  width: 100%;
+  max-width: 100%;
+  padding: 20px;
+}
+
 .logo {
   height: 6em;
   padding: 1.5em;
