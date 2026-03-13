@@ -177,7 +177,7 @@ export default function AgriMart() {
       </nav>
 
       {/* MAIN CONTENT */}
-      <div style={{ maxWidth: 1280, margin: "0 auto", padding: "0 20px" }}>
+      <div style={{ width: "100%", maxWidth: "1400px", margin: "0 auto", padding: "0 20px" }}>
 
         {/* HOME TAB */}
         {tab === "home" && (
